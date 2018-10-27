@@ -1,7 +1,8 @@
 README
 ======
 
-A simple readme file to toss into our project.Added blank ........
+
+A simple readme file to toss into our project.Added blank .......
 
 To compile the code, run:
 
